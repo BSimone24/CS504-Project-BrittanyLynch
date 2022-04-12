@@ -1,1 +1,1 @@
-# cS504-Project-BrittanyLynch
+# CS504-Project-BrittanyLynch
