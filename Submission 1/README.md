@@ -14,6 +14,7 @@ April 24, 2022
 - The next piece is the case studies for the code
 
 May 01, 2022
+
 - The following are the instructions for the Individual Project 01:
 
 
